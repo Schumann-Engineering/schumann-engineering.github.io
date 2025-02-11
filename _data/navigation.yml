@@ -1,12 +1,24 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title       : "About"
+    description : "a little bit about who I am"
+    icon        : "mdi icon mdi-emoticon-excited"
+    url         : /about/
+  - title       : "Services"
+    description : "services I can offer you"
+    url         : /services/
+  - title       : "Pages"
+    description : "most important topics"
+    url         : /page-archive/
+  - title       : "Posts"
+    description : "all blog posts in one spot for you to consume ;)"
+    url         : /year-archive/
+  - title       : "Categories"
+    description : "blog posts grouped by category"
+    url         : /categories/
+  - title       : "Tags"
+    description : "blog posts grouped by tag"
+    url         : /tags/
+  - title       : "Collections"
+    description : "blog posts grouped by collection"
+    url         : /collection-archive/
